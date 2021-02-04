@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, thanks for stopping by! 👋🏻
 
-<!--
-**noskla/noskla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+var Name = map[string]string{
+  "en": "Alice", "fi": "Alissa", "pl": "Alicja"}
+```
+👉🏻 I'm a 21 year old, non-binary technologist heavily passionate about everything-computers.
+I am interested in a many IT fields, including, but not limited to; Go programming, web development, Linux system
+administration and networking. 🔥
 
-Here are some ideas to get you started:
+##### Projects I am working on:
+- [unKast](https://github.com/noskla/unkast) - audio streaming server project made because of Icecast/Shoutcast limitations
+- [Las Pegasus Radio](https://laspegas.us/) - modern web app combining the ideas of internet radio and social media 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contribute to any of my repos through an issue or pull request. You can contact me via e-mail ``a (at) horsi.fi`` or [Twitter](https://twitter.com/alistheponi).
