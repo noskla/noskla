@@ -2,7 +2,7 @@
 
 ```go
 var Name = map[string]string{
-  "en": "Alice", "fi": "Alissa", "pl": "Alicja"}
+  "en": "Alice", "fi": "Alisa", "pl": "Alicja"}
 ```
 👉🏻 I'm a 21 year old, non-binary technologist heavily passionate about everything-computers.
 I am interested in a many IT fields, including, but not limited to; Go programming, web development, Linux system
