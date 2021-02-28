@@ -11,7 +11,6 @@ I am interested in a many IT fields, including, but not limited to; Go programmi
 administration and networking. 🔥
 
 ##### Projects I am working on *right now*:
-- [Snowfall](https://github.com/noskla/snowfall) - small, interactive website for an upcoming online convention
 - [Las Pegasus Radio](https://laspegas.us/) - modern web app combining the ideas of internet radio and social media 🎧
 
 ##### Still active, but low priority:
