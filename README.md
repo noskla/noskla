@@ -12,6 +12,7 @@ administration and networking. 🔥
 
 ##### Projects I am working on *right now*:
 - [Las Pegasus Radio](https://laspegas.us/) - modern web app combining the ideas of internet radio and social media 🎧
+- [Phosphorite](https://github.com/noskla/phosphorite) - REST API designed to use with microservices in Las Pegasus Radio infrastructure
 - [Portland](https://github.com/noskla/portland) - bot for Discord made to integrate the platform with Las Pegasus Radio API
 
 ##### Still active, but low priority:
