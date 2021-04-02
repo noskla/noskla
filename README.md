@@ -11,11 +11,10 @@ I am interested in a many IT fields, including, but not limited to; Go programmi
 administration and networking. 🔥
 
 ##### Projects I am working on *right now*:
-- [Las Pegasus Radio](https://laspegas.us/) - modern web app combining the ideas of internet radio and social media 🎧
-- [Phosphorite](https://github.com/noskla/phosphorite) - REST API designed to use with microservices in Las Pegasus Radio infrastructure
-- [Portland](https://github.com/noskla/portland) - bot for Discord made to integrate the platform with Las Pegasus Radio API
+- [Phosphorite](https://github.com/noskla/phosphorite) - server with REST API for a live music streaming service
 
 ##### Still active, but low priority:
 - [unKast](https://github.com/noskla/unkast) - audio streaming server project made because of Icecast/Shoutcast limitations
+- [Portland](https://github.com/noskla/portland) - bot for Discord made to integrate the platform with Las Pegasus Radio API
 
 Feel free to contribute to any of my repos through an issue or pull request. You can contact me via e-mail ``a (at) horsi.fi`` or [Twitter](https://twitter.com/alistheponi).
