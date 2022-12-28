@@ -9,6 +9,6 @@ I live in Katowice, Poland and I'm moving to Prague, Czechia in up to a year. I 
 - **#LPFM** ( 2019- ) — an innovative internet radio station, being simultaneously a news media, and a music database (almost like Spotify) with always up interactive live stream.
 - **cd.fm** ( 2015-2018 ) — an internet radio station I led with couple of my friends. The station was disbanded due to lost interest from members and listeners.
 
-You can contact me via e-mail anytime, I respond up to 1 day.
+You can contact me via e-mail anytime (``a.href at outlook``), I respond up to 1 day.
 I speak fluent English, Polish and I'm actively learning Czech.
 Ask me for XMPP, Signal, Skype if necessary.
