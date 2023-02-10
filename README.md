@@ -14,6 +14,6 @@ I'm a **23 y.o.** technologist heavily passionate about everything-computers and
 | Node.js & TypeScript | React.js | Express | Go (Golang) |
 | Gin                  | PHP      | Python  | Flask       |
 
-You can contact me via e-mail anytime ( ``a.href at outlook`` ), I respond up to 1 day.
+You can contact me via e-mail anytime ( ``jc at cichocky.eu`` ), I respond up to 1 day.
 I speak fluent English, Polish and I'm actively learning Finnish.
 Ask me for XMPP, Signal, Skype if necessary.
