@@ -6,7 +6,7 @@ I'm a **23 y.o.** technologist heavily passionate about everything-computers and
 ##### Big projects I participate/d in:
 - **stickercat** ( 2023- ) — online store focused on the sale of high-quality stickers with curated art made by niche artists from all around the world.
 - **#LPFM** ( 2019- ) — an innovative media center, being simultaneously a radio station, news source, and a music streaming service (almost like Spotify) with always up interactive live stream.
-- **cd.fm** ( 2015-2018 ) — an internet radio station I led with couple of my friends. The station was disbanded due to lost interest from members and listeners.
+- **cd.fm** ( 2015-2018 ) — an internet radio station I led with couple of my friends. the station was disbanded due to waning interest from members and listeners.
 
 ##### Languages / Frameworks
 |                      |          |         |             |
