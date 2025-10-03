@@ -12,8 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noskla&color=blueviolet&style=for-the-badge)
 
----
-
 ### 🌍 About Me
 
 | |
@@ -22,8 +20,6 @@
 | Monikielinen kehittäjä. Kirjoitan cross-platform työkaluja, botteja ja skriptejä, joskus automatisoidakseni <br>arkista työtä, joskus vain huvin vuoksi. Linux- ja BSD-harrastaja, jolla on sivukiinnostus AI/ML-kokeiluihin ja kyberturvallisuuteen. |
 | Polüglott arendaja. Kirjutan mitmesüsteemilisi tööriistu, botte ja skripte, mõnikord argiste asjade <br>automatiseerimiseks, mõnikord lihtsalt lõbuks. Linuxi ja BSD entusiast huvilisusega AI/ML eksperimentide ja küberturvalisuse vastu. |
 | Poliglots izstrādātājs. Rakstu starpplatformu rīkus, botus un skriptus — dažreiz, lai automatizētu ikdienas <br>rutīnu, dažreiz vienkārši jautrībai. Linux un BSD entuziasts ar interesi par mākslīgā intelekta un mašīnmācīšanās eksperimentiem, kā arī kiberdrošību. |
-
----
 
 ### 📊 Stats
 
