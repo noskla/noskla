@@ -39,4 +39,4 @@ tekoälyyn, koneoppimiseen ja kyberturvallisuuteen.
 
 <div align="center">
   
-<img src="sailor-moon-pc.gif" alt="Luna from Sailor Moon typing on a computer" width="150" />
+<img src="sailor-moon-pc.gif" alt="Luna from Sailor Moon typing on a computer" />
