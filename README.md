@@ -39,4 +39,4 @@ tekoälyyn, koneoppimiseen ja kyberturvallisuuteen.
 
 <div align="center">
   
-<img src="https://github.com/noskla.png" alt="GitHub Avatar" width="150" style="border-radius: 50%;" />
+<img src="sailor-moon-pc.gif" alt="Luna from Sailor Moon typing on a computer" width="150" />
