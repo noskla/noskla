@@ -30,8 +30,8 @@ Full-stack developer specializing in websites, automation
 systems, and AI integrations. Longtime Linux enthusiast with a
 side passion for AI/ML and cybersecurity.
 ---------------------------------------- fi-FI:
-Kokonaisuuden full-stack kehittäjä, joka erikoistuu
-verkkosivuihin, automaatiojärjestelmiin ja tekoälyintegraatioihin.
+Full-stack kehittäjä, joka erikoistuu verkkosivuihin,
+automaatiojärjestelmiin ja tekoälyintegraatioihin.
 Pitkäaikainen Linux-harrastaja, jolla on sivutoiminen kiinnostus
 tekoälyyn, koneoppimiseen ja kyberturvallisuuteen.
 ```
